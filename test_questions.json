@@ -1,0 +1,12 @@
+[
+  {"question": "Who founded NovaTech Solutions?", "expected": "Ayesha Khan", "keyword": "ayesha", "type": "supported"},
+  {"question": "How much does the TaskFlow Pro plan cost?", "expected": "$25 per user per month", "keyword": "25", "type": "supported"},
+  {"question": "Which tools does TaskFlow integrate with?", "expected": "Slack, Google Calendar, GitHub", "keyword": "slack", "type": "supported"},
+  {"question": "How long is the free trial?", "expected": "14 days", "keyword": "14", "type": "supported"},
+  {"question": "What are the support hours?", "expected": "Mon-Fri, 9 AM to 6 PM PKT", "keyword": "9", "type": "supported"},
+  {"question": "How many employees work at NovaTech, and what is their average salary?", "expected": "45 employees; salary info not available", "keyword": "45", "type": "partial"},
+  {"question": "Does TaskFlow have an iPhone app?", "expected": "Refusal (not in knowledge base)", "keyword": null, "type": "outside"},
+  {"question": "Who is the CEO of NovaTech's biggest competitor?", "expected": "Refusal (not in knowledge base)", "keyword": null, "type": "outside"},
+  {"question": "What is NovaTech's annual revenue?", "expected": "Refusal (not in knowledge base)", "keyword": null, "type": "outside"},
+  {"question": "Does TaskFlow integrate with Jira?", "expected": "Refusal (not in knowledge base)", "keyword": null, "type": "outside"}
+]
